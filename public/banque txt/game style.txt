@@ -1,0 +1,24 @@
+FPS (First-Person Shooter)
+TPS (Third-Person Shooter)
+Platformer
+Adventure
+Survival Horror
+Strategy
+Racing
+Sports
+Fighting
+Simulation
+Puzzle
+Stealth (jeux de discretion)
+Music/Rhythm
+Sandbox
+Tower Defense
+Card Game
+Visual Novel
+Open World
+Hack and Slash
+Beat 'em up
+Real-time strategy
+Turn-based strategy
+Interactive Fiction
+Action-Adventure
